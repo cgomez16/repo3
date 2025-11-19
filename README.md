@@ -1,2 +1,3 @@
 # repo3
-Clonar repositorios
+#Clonar repositorios
+'git clone'
